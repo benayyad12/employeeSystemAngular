@@ -1,0 +1,35 @@
+{
+  "employeeList": [
+    {
+      "firstName": "benayyad",
+      "lastName": "abdessalam",
+      "email": "abdessalam.benayyad@soprabanking.com",
+      "password": "Wub154mr",
+      "id": 2
+    },
+    {
+      "firstName": "salim",
+      "lastName": "mkls",
+      "email": "sdlkssl",
+      "password": "sldks",
+      "id": 3
+    },
+    {
+      "firstName": "salim",
+      "lastName": "benayyad",
+      "email": "meknes@univ-lemans.fr",
+      "password": "E136090739",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
